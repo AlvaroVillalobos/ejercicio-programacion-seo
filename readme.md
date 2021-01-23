@@ -1,0 +1,1 @@
+Repositorio del ejercicio del curso de programación práctica para SEO
